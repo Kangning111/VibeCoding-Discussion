@@ -38,7 +38,7 @@ Vibe Coding：人定义目标、边界、验收，AI 生成、修改、调试代
 
 不是所有文档一开始都要写。文档应该按项目规模和阶段逐步增加。
 
-![文档体系分层](./images\vibe-coding-03.png)
+![文档体系分层](./images/vibe-coding-03.png)
 
 
 
